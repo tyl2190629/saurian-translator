@@ -17,7 +17,7 @@ Demonstrates string manipulation, loops, and character-shift logic.
 - Any local Java compiler/IDE
 
 ## Compile
-- javac Saurian.java SaurianDriver.java
+javac Saurian.java SaurianDriver.java
 
 ## Run
-- java Saurian
+java Saurian
