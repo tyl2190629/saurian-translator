@@ -20,4 +20,4 @@ Demonstrates string manipulation, loops, and character-shift logic.
 javac Saurian.java SaurianDriver.java
 
 ## Run
-java Saurian
+java SaurianDriver
